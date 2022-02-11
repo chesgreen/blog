@@ -1,4 +1,50 @@
 baseURL = 'http://chesgreen.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Github Blog'
 theme = "PaperMod"
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 5
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+env = "production"
+description = "My personal site - http://chesgreen.github.io/blog/"
+author = "Chester Green"
+defaultTheme = "auto"
+ShowShareButtons = false
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowToc = true
+
+[homeInfoParams]
+
+  [params.homeInfoParams]
+  Title = "Cloud, Code and Automation"
+  Content = """
+Documenting my learning journey.
+"""
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/chesgreen"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/chester-a-green"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:chesgreen@gmail.com"
