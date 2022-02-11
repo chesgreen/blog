@@ -29,5 +29,12 @@ I am Chester and I am passionate about Information Technology.  When I am not co
 
 ## Certifications
 
-[![AWSCAA](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/fa75a8b2-ea39-45aa-ac09-e37eb6e3f00b/public_url)
-[![MSAZUREFUNDAMENTALS](https://images.credly.com/size/110x110/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](https://www.credly.com/badges/67d27b83-0da3-4dfb-b1f1-982ecd377732/public_url)
+[![AWSCAA](https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/fa75a8b2-ea39-45aa-ac09-e37eb6e3f00b/public_url)
+[![MSAZUREFUNDAMENTALS](https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](https://www.credly.com/badges/67d27b83-0da3-4dfb-b1f1-982ecd377732/public_url)
+
+
+## Badges
+[![Skillsoft](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46054426)](https://skillsoft.digitalbadges.skillsoft.com/60f75de0-45be-4ffe-8481-c8a315fb9770)
+[![Skillsoft](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46199100)](https://skillsoft.digitalbadges.skillsoft.com/8a29671a-fcbd-420d-89b8-8ed90575a27a)
+[![Skillsoft](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45837616)](https://skillsoft.digitalbadges.skillsoft.com/a43d0e33-c20c-4fad-a348-d1a415e9057c)
+[![Skillsoft](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40433890)](https://skillsoft.digitalbadges.skillsoft.com/830dc480-c545-493f-9161-ddf54ad4c12c)
